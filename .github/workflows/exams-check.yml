@@ -1,0 +1,18 @@
+name: exams-check
+
+on:
+  push:
+    paths:
+      - 'exams/**'
+  pull_request:
+    paths:
+      - 'exams/**'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kiểm tra đề thi
+        run: python3 exams/check_exams.py

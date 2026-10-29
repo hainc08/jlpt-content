@@ -1,0 +1,8 @@
+{
+ "schema": 1,
+ "level": "N5",
+ "exams": [
+  "n5-01.json",
+  "n5-02.json"
+ ]
+}
