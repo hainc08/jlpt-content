@@ -5,3 +5,4 @@
 - Thêm/sửa/xoá đề: xem `exams/HUONG_DAN.md`. Kiểm tra: `python exams/check_exams.py` (workflow `exams-check` chạy mỗi lần push).
 - Nguồn soạn đề nằm ở app thi thử (`tools/content/*.py`); xuất bằng `python tools/build_exams.py --publish ../../content/exams`.
 - Không đổi địa chỉ thư mục `exams/<level>/` sau khi app đã phát hành (bản app cũ sẽ không tải được đề).
+- `kanji/<app>.json` (n5, n4, …): dữ liệu app Kanji Flashcard, đọc từ `https://hainc08.github.io/jlpt-content/kanji/<app>.json`. Kiểm tra: `python kanji/check_kanji.py`. Hướng dẫn: `kanji/HUONG_DAN.md`. Xuất từ code: `python tools/export_kanji_json.py ../../content/kanji` (trong repo jlptkanjin5).

@@ -4,9 +4,11 @@ on:
   push:
     paths:
       - 'exams/**'
+      - 'kanji/**'
   pull_request:
     paths:
       - 'exams/**'
+      - 'kanji/**'
   workflow_dispatch:
 
 jobs:
@@ -16,3 +18,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Kiểm tra đề thi
         run: python3 exams/check_exams.py
+      - name: Kiểm tra dữ liệu Kanji
+        run: python3 kanji/check_kanji.py
