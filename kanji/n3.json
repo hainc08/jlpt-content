@@ -1,0 +1,1938 @@
+{
+ "schema": 1,
+ "level": "N3",
+ "kanji": [
+  {
+   "char": "政",
+   "hanViet": "CHÍNH",
+   "meaning": "chính trị, cai trị",
+   "on": "セイ、ショウ",
+   "kun": "まつりごと"
+  },
+  {
+   "char": "治",
+   "hanViet": "TRỊ",
+   "meaning": "cai trị, chữa lành",
+   "on": "ジ、チ",
+   "kun": "おさ(める)、なお(る)"
+  },
+  {
+   "char": "経",
+   "hanViet": "KINH",
+   "meaning": "kinh tế, trải qua",
+   "on": "ケイ、キョウ",
+   "kun": "へ(る)"
+  },
+  {
+   "char": "済",
+   "hanViet": "TẾ",
+   "meaning": "cứu giúp, xong xuôi",
+   "on": "サイ",
+   "kun": "す(む)"
+  },
+  {
+   "char": "法",
+   "hanViet": "PHÁP",
+   "meaning": "pháp luật, phép tắc",
+   "on": "ホウ",
+   "kun": ""
+  },
+  {
+   "char": "律",
+   "hanViet": "LUẬT",
+   "meaning": "luật lệ, quy luật",
+   "on": "リツ、リチ",
+   "kun": ""
+  },
+  {
+   "char": "権",
+   "hanViet": "QUYỀN",
+   "meaning": "quyền lực, quyền lợi",
+   "on": "ケン、ゴン",
+   "kun": ""
+  },
+  {
+   "char": "利",
+   "hanViet": "LỢI",
+   "meaning": "lợi ích, sắc bén",
+   "on": "リ",
+   "kun": "き(く)"
+  },
+  {
+   "char": "義",
+   "hanViet": "NGHĨA",
+   "meaning": "chính nghĩa, đạo nghĩa",
+   "on": "ギ",
+   "kun": ""
+  },
+  {
+   "char": "務",
+   "hanViet": "VỤ",
+   "meaning": "nhiệm vụ, công việc",
+   "on": "ム",
+   "kun": "つと(める)"
+  },
+  {
+   "char": "官",
+   "hanViet": "QUAN",
+   "meaning": "quan chức, cơ quan",
+   "on": "カン",
+   "kun": ""
+  },
+  {
+   "char": "公",
+   "hanViet": "CÔNG",
+   "meaning": "công cộng, chung",
+   "on": "コウ",
+   "kun": "おおやけ"
+  },
+  {
+   "char": "民",
+   "hanViet": "DÂN",
+   "meaning": "nhân dân, dân chúng",
+   "on": "ミン",
+   "kun": "たみ"
+  },
+  {
+   "char": "平",
+   "hanViet": "BÌNH",
+   "meaning": "bình đẳng, bằng phẳng",
+   "on": "ヘイ、ビョウ",
+   "kun": "たい(ら)、ひら"
+  },
+  {
+   "char": "和",
+   "hanViet": "HÒA",
+   "meaning": "hòa bình, ôn hòa",
+   "on": "ワ、オ",
+   "kun": "やわ(らぐ)、なご(む)"
+  },
+  {
+   "char": "戦",
+   "hanViet": "CHIẾN",
+   "meaning": "chiến tranh, chiến đấu",
+   "on": "セン",
+   "kun": "いくさ、たたか(う)"
+  },
+  {
+   "char": "争",
+   "hanViet": "TRANH",
+   "meaning": "tranh giành, tranh đấu",
+   "on": "ソウ",
+   "kun": "あらそ(う)"
+  },
+  {
+   "char": "議",
+   "hanViet": "NGHỊ",
+   "meaning": "bàn bạc, hội nghị",
+   "on": "ギ",
+   "kun": ""
+  },
+  {
+   "char": "論",
+   "hanViet": "LUẬN",
+   "meaning": "bàn luận, lý luận",
+   "on": "ロン",
+   "kun": ""
+  },
+  {
+   "char": "選",
+   "hanViet": "TUYỂN",
+   "meaning": "lựa chọn, bầu cử",
+   "on": "セン",
+   "kun": "えら(ぶ)"
+  },
+  {
+   "char": "挙",
+   "hanViet": "CỬ",
+   "meaning": "đề cử, giơ lên",
+   "on": "キョ",
+   "kun": "あ(げる)"
+  },
+  {
+   "char": "制",
+   "hanViet": "CHẾ",
+   "meaning": "chế độ, khống chế",
+   "on": "セイ",
+   "kun": ""
+  },
+  {
+   "char": "規",
+   "hanViet": "QUY",
+   "meaning": "quy tắc, khuôn mẫu",
+   "on": "キ",
+   "kun": ""
+  },
+  {
+   "char": "則",
+   "hanViet": "TẮC",
+   "meaning": "nguyên tắc, phép tắc",
+   "on": "ソク",
+   "kun": ""
+  },
+  {
+   "char": "税",
+   "hanViet": "THUẾ",
+   "meaning": "thuế má",
+   "on": "ゼイ",
+   "kun": ""
+  },
+  {
+   "char": "費",
+   "hanViet": "PHÍ",
+   "meaning": "chi phí, tiêu xài",
+   "on": "ヒ",
+   "kun": "つい(やす)"
+  },
+  {
+   "char": "資",
+   "hanViet": "TƯ",
+   "meaning": "tư bản, tài nguyên",
+   "on": "シ",
+   "kun": ""
+  },
+  {
+   "char": "財",
+   "hanViet": "TÀI",
+   "meaning": "tài sản, tiền của",
+   "on": "ザイ、サイ",
+   "kun": ""
+  },
+  {
+   "char": "貧",
+   "hanViet": "BẦN",
+   "meaning": "nghèo túng",
+   "on": "ヒン、ビン",
+   "kun": "まず(しい)"
+  },
+  {
+   "char": "富",
+   "hanViet": "PHÚ",
+   "meaning": "giàu có, phú quý",
+   "on": "フ、フウ",
+   "kun": "と(む)、とみ"
+  },
+  {
+   "char": "彼",
+   "hanViet": "BỈ",
+   "meaning": "anh ấy, ngôi thứ ba",
+   "on": "ヒ",
+   "kun": "かれ、かの"
+  },
+  {
+   "char": "妻",
+   "hanViet": "THÊ",
+   "meaning": "người vợ",
+   "on": "サイ",
+   "kun": "つま"
+  },
+  {
+   "char": "夫",
+   "hanViet": "PHU",
+   "meaning": "người chồng",
+   "on": "フ、フウ",
+   "kun": "おっと"
+  },
+  {
+   "char": "婚",
+   "hanViet": "HÔN",
+   "meaning": "kết hôn, cưới xin",
+   "on": "コン",
+   "kun": ""
+  },
+  {
+   "char": "婦",
+   "hanViet": "PHỤ",
+   "meaning": "phụ nữ có chồng, dâu",
+   "on": "フ",
+   "kun": ""
+  },
+  {
+   "char": "娘",
+   "hanViet": "NƯƠNG",
+   "meaning": "con gái, thiếu nữ",
+   "on": "ジョウ",
+   "kun": "むすめ"
+  },
+  {
+   "char": "孫",
+   "hanViet": "TÔN",
+   "meaning": "cháu (nội, ngoại)",
+   "on": "ソン",
+   "kun": "まご"
+  },
+  {
+   "char": "王",
+   "hanViet": "VƯƠNG",
+   "meaning": "nhà vua, quốc vương",
+   "on": "オウ",
+   "kun": ""
+  },
+  {
+   "char": "君",
+   "hanViet": "QUÂN",
+   "meaning": "cậu, bạn, quân vương",
+   "on": "クン",
+   "kun": "きみ"
+  },
+  {
+   "char": "様",
+   "hanViet": "DẠNG",
+   "meaning": "ngài, kiểu dáng",
+   "on": "ヨウ",
+   "kun": "さま"
+  },
+  {
+   "char": "客",
+   "hanViet": "KHÁCH",
+   "meaning": "khách hàng, khách khứa",
+   "on": "キャク、カク",
+   "kun": ""
+  },
+  {
+   "char": "老",
+   "hanViet": "LÃO",
+   "meaning": "già, người cao tuổi",
+   "on": "ロウ",
+   "kun": "お(いる)、ふ(ける)"
+  },
+  {
+   "char": "幼",
+   "hanViet": "ẤU",
+   "meaning": "thơ ấu, nhỏ dại",
+   "on": "ヨウ",
+   "kun": "おさな(い)"
+  },
+  {
+   "char": "若",
+   "hanViet": "NHƯỢC",
+   "meaning": "trẻ tuổi, hoặc là",
+   "on": "ジャク、ニャク",
+   "kun": "わか(い)、も(しくは)"
+  },
+  {
+   "char": "愛",
+   "hanViet": "ÁI",
+   "meaning": "tình yêu, yêu thương",
+   "on": "アイ",
+   "kun": ""
+  },
+  {
+   "char": "恋",
+   "hanViet": "LUYẾN",
+   "meaning": "yêu đương, ái luyến",
+   "on": "レン",
+   "kun": "こ(う)、こい(しい)"
+  },
+  {
+   "char": "情",
+   "hanViet": "TÌNH",
+   "meaning": "tình cảm, tình hình",
+   "on": "ジョウ、セイ",
+   "kun": "なさ(け)"
+  },
+  {
+   "char": "感",
+   "hanViet": "CẢM",
+   "meaning": "cảm giác, cảm nhận",
+   "on": "カン",
+   "kun": ""
+  },
+  {
+   "char": "想",
+   "hanViet": "TƯỞNG",
+   "meaning": "tưởng tượng, ý tưởng",
+   "on": "ソウ、ソ",
+   "kun": ""
+  },
+  {
+   "char": "念",
+   "hanViet": "NIỆM",
+   "meaning": "ý niệm, ghi nhớ",
+   "on": "ネン",
+   "kun": ""
+  },
+  {
+   "char": "悲",
+   "hanViet": "BI",
+   "meaning": "buồn bã, bi thương",
+   "on": "ヒ",
+   "kun": "かな(しい)"
+  },
+  {
+   "char": "怒",
+   "hanViet": "NỘ",
+   "meaning": "tức giận, phẫn nộ",
+   "on": "ド",
+   "kun": "いか(る)、おこ(る)"
+  },
+  {
+   "char": "喜",
+   "hanViet": "HỶ",
+   "meaning": "vui mừng, hân hoan",
+   "on": "キ",
+   "kun": "よろこ(ぶ)"
+  },
+  {
+   "char": "苦",
+   "hanViet": "KHỔ",
+   "meaning": "đau khổ, vị đắng",
+   "on": "ク",
+   "kun": "くる(しい)、にが(い)"
+  },
+  {
+   "char": "痛",
+   "hanViet": "THỐNG",
+   "meaning": "đau đớn, nhức nhối",
+   "on": "ツウ",
+   "kun": "いた(い)"
+  },
+  {
+   "char": "怖",
+   "hanViet": "PHỐ",
+   "meaning": "sợ hãi, đáng sợ",
+   "on": "フ",
+   "kun": "こわ(い)"
+  },
+  {
+   "char": "恐",
+   "hanViet": "KHỦNG",
+   "meaning": "lo sợ, khủng khiếp",
+   "on": "キョウ",
+   "kun": "おそ(れる)"
+  },
+  {
+   "char": "驚",
+   "hanViet": "KINH",
+   "meaning": "ngạc nhiên, giật mình",
+   "on": "キョウ",
+   "kun": "おどろ(く)"
+  },
+  {
+   "char": "恥",
+   "hanViet": "SỈ",
+   "meaning": "xấu hổ, thẹn thùng",
+   "on": "チ",
+   "kun": "は(じる)、はじ"
+  },
+  {
+   "char": "悩",
+   "hanViet": "NÃO",
+   "meaning": "phiền não, trăn trở",
+   "on": "ノウ",
+   "kun": "なや(む)"
+  },
+  {
+   "char": "困",
+   "hanViet": "KHỐN",
+   "meaning": "khó khăn, bối rối",
+   "on": "コン",
+   "kun": "こま(る)"
+  },
+  {
+   "char": "迷",
+   "hanViet": "MÊ",
+   "meaning": "lạc đường, phân vân",
+   "on": "メイ",
+   "kun": "まよ(う)"
+  },
+  {
+   "char": "夢",
+   "hanViet": "MỘNG",
+   "meaning": "giấc mơ, ước mơ",
+   "on": "ム",
+   "kun": "ゆめ"
+  },
+  {
+   "char": "希",
+   "hanViet": "HY",
+   "meaning": "hy vọng, hiếm có",
+   "on": "キ",
+   "kun": ""
+  },
+  {
+   "char": "望",
+   "hanViet": "VỌNG",
+   "meaning": "mong ước, trông ngóng",
+   "on": "ボウ、モウ",
+   "kun": "のぞ(む)"
+  },
+  {
+   "char": "願",
+   "hanViet": "NGUYỆN",
+   "meaning": "cầu nguyện, ước nguyện",
+   "on": "ガン",
+   "kun": "ねが(う)"
+  },
+  {
+   "char": "幸",
+   "hanViet": "HẠNH",
+   "meaning": "hạnh phúc, may mắn",
+   "on": "コウ",
+   "kun": "さいわ(い)、しあわ(せ)"
+  },
+  {
+   "char": "福",
+   "hanViet": "PHÚC",
+   "meaning": "phúc lành, may mắn",
+   "on": "フク",
+   "kun": ""
+  },
+  {
+   "char": "礼",
+   "hanViet": "LỄ",
+   "meaning": "lễ phép, cảm ơn",
+   "on": "レイ、ライ",
+   "kun": ""
+  },
+  {
+   "char": "笑",
+   "hanViet": "TIẾU",
+   "meaning": "cười, mỉm cười",
+   "on": "ショウ",
+   "kun": "わら(う)、え(む)"
+  },
+  {
+   "char": "泣",
+   "hanViet": "KHỐC",
+   "meaning": "khóc, rơi lệ",
+   "on": "キュウ",
+   "kun": "な(く)"
+  },
+  {
+   "char": "眠",
+   "hanViet": "MIÊN",
+   "meaning": "ngủ, buồn ngủ",
+   "on": "ミン",
+   "kun": "ねむ(る)、ねむ(い)"
+  },
+  {
+   "char": "覚",
+   "hanViet": "GIÁC",
+   "meaning": "nhớ, tỉnh giấc",
+   "on": "カク",
+   "kun": "おぼ(える)、さ(める)"
+  },
+  {
+   "char": "忘",
+   "hanViet": "VONG",
+   "meaning": "quên mất",
+   "on": "ボウ",
+   "kun": "わす(れる)"
+  },
+  {
+   "char": "疲",
+   "hanViet": "BÌ",
+   "meaning": "mệt mỏi, kiệt sức",
+   "on": "ヒ",
+   "kun": "つか(れる)"
+  },
+  {
+   "char": "呼",
+   "hanViet": "HÔ",
+   "meaning": "gọi tên, mời gọi",
+   "on": "コ",
+   "kun": "よ(ぶ)"
+  },
+  {
+   "char": "招",
+   "hanViet": "CHIÊU",
+   "meaning": "mời, vẫy gọi",
+   "on": "ショウ",
+   "kun": "まね(く)"
+  },
+  {
+   "char": "訪",
+   "hanViet": "PHỎNG",
+   "meaning": "viếng thăm, ghé thăm",
+   "on": "ホウ",
+   "kun": "おとず(れる)、たず(ねる)"
+  },
+  {
+   "char": "迎",
+   "hanViet": "NGHÊNH",
+   "meaning": "đón tiếp, chào đón",
+   "on": "ゲイ",
+   "kun": "むか(える)"
+  },
+  {
+   "char": "届",
+   "hanViet": "GIỚI",
+   "meaning": "gửi đến, chạm tới",
+   "on": "カイ",
+   "kun": "とど(ける)、とど(く)"
+  },
+  {
+   "char": "配",
+   "hanViet": "PHỐI",
+   "meaning": "phân phát, lo lắng",
+   "on": "ハイ",
+   "kun": "くば(る)"
+  },
+  {
+   "char": "渡",
+   "hanViet": "ĐỘ",
+   "meaning": "băng qua, trao tay",
+   "on": "ト",
+   "kun": "わた(る)、わた(す)"
+  },
+  {
+   "char": "返",
+   "hanViet": "PHẢN",
+   "meaning": "trả lại, hồi đáp",
+   "on": "ヘン",
+   "kun": "かえ(す)"
+  },
+  {
+   "char": "換",
+   "hanViet": "HOÁN",
+   "meaning": "đổi chác, thay thế",
+   "on": "カン",
+   "kun": "か(える)"
+  },
+  {
+   "char": "変",
+   "hanViet": "BIẾN",
+   "meaning": "thay đổi, kỳ lạ",
+   "on": "ヘン",
+   "kun": "か(わる)"
+  },
+  {
+   "char": "化",
+   "hanViet": "HÓA",
+   "meaning": "biến hóa, thay đổi",
+   "on": "カ、ケ",
+   "kun": "ば(ける)"
+  },
+  {
+   "char": "成",
+   "hanViet": "THÀNH",
+   "meaning": "trở thành, hoàn thành",
+   "on": "セイ、ジョウ",
+   "kun": "な(る)"
+  },
+  {
+   "char": "果",
+   "hanViet": "QUẢ",
+   "meaning": "kết quả, trái cây",
+   "on": "カ",
+   "kun": "は(たす)"
+  },
+  {
+   "char": "決",
+   "hanViet": "QUYẾT",
+   "meaning": "quyết định",
+   "on": "ケツ",
+   "kun": "き(める)、き(まる)"
+  },
+  {
+   "char": "定",
+   "hanViet": "ĐỊNH",
+   "meaning": "cố định, xác định",
+   "on": "テイ、ジョウ",
+   "kun": "さだ(める)"
+  },
+  {
+   "char": "約",
+   "hanViet": "ƯỚC",
+   "meaning": "lời hứa, ước lược",
+   "on": "ヤク",
+   "kun": ""
+  },
+  {
+   "char": "束",
+   "hanViet": "THÚC",
+   "meaning": "bó lại, ràng buộc",
+   "on": "ソク",
+   "kun": "たば"
+  },
+  {
+   "char": "守",
+   "hanViet": "THỦ",
+   "meaning": "bảo vệ, tuân thủ",
+   "on": "シュ、ス",
+   "kun": "まも(る)"
+  },
+  {
+   "char": "助",
+   "hanViet": "TRỢ",
+   "meaning": "giúp đỡ, cứu giúp",
+   "on": "ジョ",
+   "kun": "たす(ける)、たす(かる)"
+  },
+  {
+   "char": "救",
+   "hanViet": "CỨU",
+   "meaning": "cứu trợ, giải cứu",
+   "on": "キュウ",
+   "kun": "すく(う)"
+  },
+  {
+   "char": "支",
+   "hanViet": "CHI",
+   "meaning": "chi nhánh, nâng đỡ",
+   "on": "シ",
+   "kun": "ささ(える)"
+  },
+  {
+   "char": "援",
+   "hanViet": "VIỆN",
+   "meaning": "chi viện, ủng hộ",
+   "on": "エン",
+   "kun": ""
+  },
+  {
+   "char": "協",
+   "hanViet": "HIỆP",
+   "meaning": "hợp tác, hiệp lực",
+   "on": "キョウ",
+   "kun": ""
+  },
+  {
+   "char": "調",
+   "hanViet": "ĐIỀU",
+   "meaning": "điều tra, giai điệu",
+   "on": "チョウ",
+   "kun": "しら(べる)、ととの(う)"
+  },
+  {
+   "char": "査",
+   "hanViet": "TRA",
+   "meaning": "kiểm tra, thanh tra",
+   "on": "サ",
+   "kun": ""
+  },
+  {
+   "char": "確",
+   "hanViet": "XÁC",
+   "meaning": "chắc chắn, xác nhận",
+   "on": "カク",
+   "kun": "たし(か)、たし(かめる)"
+  },
+  {
+   "char": "認",
+   "hanViet": "NHẬN",
+   "meaning": "công nhận, nhận thức",
+   "on": "ニン",
+   "kun": "みと(める)"
+  },
+  {
+   "char": "許",
+   "hanViet": "HỨA",
+   "meaning": "cho phép, tha thứ",
+   "on": "キョ",
+   "kun": "ゆる(す)"
+  },
+  {
+   "char": "断",
+   "hanViet": "ĐOẠN",
+   "meaning": "từ chối, cắt đứt",
+   "on": "ダン",
+   "kun": "ことわ(る)、た(つ)"
+  },
+  {
+   "char": "賛",
+   "hanViet": "TÁN",
+   "meaning": "tán thành, khen ngợi",
+   "on": "サン",
+   "kun": ""
+  },
+  {
+   "char": "反",
+   "hanViet": "PHẢN",
+   "meaning": "phản đối, ngược lại",
+   "on": "ハン、ホン",
+   "kun": "そ(る)"
+  },
+  {
+   "char": "対",
+   "hanViet": "ĐỐI",
+   "meaning": "đối diện, đối lập",
+   "on": "タイ、ツイ",
+   "kun": ""
+  },
+  {
+   "char": "比",
+   "hanViet": "TỶ",
+   "meaning": "so sánh, đối chiếu",
+   "on": "ヒ",
+   "kun": "くら(べる)"
+  },
+  {
+   "char": "較",
+   "hanViet": "GIÁC",
+   "meaning": "so đọ, đối chiếu",
+   "on": "カク",
+   "kun": ""
+  },
+  {
+   "char": "択",
+   "hanViet": "TRẠCH",
+   "meaning": "tuyển chọn, kén chọn",
+   "on": "タク",
+   "kun": ""
+  },
+  {
+   "char": "判",
+   "hanViet": "PHÁN",
+   "meaning": "phán đoán, xét xử",
+   "on": "ハン、バン",
+   "kun": ""
+  },
+  {
+   "char": "処",
+   "hanViet": "XỬ",
+   "meaning": "xử lý, nơi chốn",
+   "on": "ショ",
+   "kun": ""
+  },
+  {
+   "char": "置",
+   "hanViet": "TRÍ",
+   "meaning": "đặt để, bố trí",
+   "on": "チ",
+   "kun": "お(く)"
+  },
+  {
+   "char": "残",
+   "hanViet": "TÀN",
+   "meaning": "còn lại, sót lại",
+   "on": "ザン",
+   "kun": "のこ(る)、のこ(す)"
+  },
+  {
+   "char": "増",
+   "hanViet": "TĂNG",
+   "meaning": "tăng lên, thêm vào",
+   "on": "ゾウ",
+   "kun": "ふ(える)、ま(す)"
+  },
+  {
+   "char": "減",
+   "hanViet": "GIẢM",
+   "meaning": "giảm bớt, suy giảm",
+   "on": "ゲン",
+   "kun": "へ(る)、へ(らす)"
+  },
+  {
+   "char": "満",
+   "hanViet": "MÃN",
+   "meaning": "đầy đủ, thỏa mãn",
+   "on": "マン",
+   "kun": "み(ちる)、み(たす)"
+  },
+  {
+   "char": "欠",
+   "hanViet": "KHUYẾT",
+   "meaning": "thiếu vắng, khiếm khuyết",
+   "on": "ケツ",
+   "kun": "か(ける)"
+  },
+  {
+   "char": "続",
+   "hanViet": "TỤC",
+   "meaning": "tiếp tục, nối tiếp",
+   "on": "ゾク",
+   "kun": "つづ(く)、つづ(ける)"
+  },
+  {
+   "char": "絶",
+   "hanViet": "TUYỆT",
+   "meaning": "tuyệt đối, đứt đoạn",
+   "on": "ゼツ",
+   "kun": "た(える)"
+  },
+  {
+   "char": "連",
+   "hanViet": "LIÊN",
+   "meaning": "liên kết, dẫn theo",
+   "on": "レン",
+   "kun": "つ(れる)、つら(なる)"
+  },
+  {
+   "char": "絡",
+   "hanViet": "LẠC",
+   "meaning": "liên lạc, quấn quanh",
+   "on": "ラク",
+   "kun": "から(む)"
+  },
+  {
+   "char": "接",
+   "hanViet": "TIẾP",
+   "meaning": "tiếp xúc, nối liền",
+   "on": "セツ",
+   "kun": "つ(ぐ)"
+  },
+  {
+   "char": "関",
+   "hanViet": "QUAN",
+   "meaning": "liên quan, cửa ải",
+   "on": "カン",
+   "kun": "かか(わる)、せき"
+  },
+  {
+   "char": "係",
+   "hanViet": "HỆ",
+   "meaning": "quan hệ, người phụ trách",
+   "on": "ケイ",
+   "kun": "かか(る)、かかり"
+  },
+  {
+   "char": "担",
+   "hanViet": "ĐẢM",
+   "meaning": "đảm nhiệm, gánh vác",
+   "on": "タン",
+   "kun": "かつ(ぐ)、にな(う)"
+  },
+  {
+   "char": "当",
+   "hanViet": "ĐƯƠNG",
+   "meaning": "trúng, đương nhiên",
+   "on": "トウ",
+   "kun": "あ(たる)、あ(てる)"
+  },
+  {
+   "char": "向",
+   "hanViet": "HƯỚNG",
+   "meaning": "hướng về, phía bên kia",
+   "on": "コウ",
+   "kun": "む(く)、む(かう)"
+  },
+  {
+   "char": "達",
+   "hanViet": "ĐẠT",
+   "meaning": "đạt tới, những người",
+   "on": "タツ",
+   "kun": ""
+  },
+  {
+   "char": "功",
+   "hanViet": "CÔNG",
+   "meaning": "thành công, công lao",
+   "on": "コウ、ク",
+   "kun": ""
+  },
+  {
+   "char": "敗",
+   "hanViet": "BẠI",
+   "meaning": "thất bại, thua cuộc",
+   "on": "ハイ",
+   "kun": "やぶ(れる)"
+  },
+  {
+   "char": "失",
+   "hanViet": "THẤT",
+   "meaning": "mất mát, thất lễ",
+   "on": "シツ",
+   "kun": "うしな(う)"
+  },
+  {
+   "char": "得",
+   "hanViet": "ĐẮC",
+   "meaning": "đạt được, lợi lộc",
+   "on": "トク",
+   "kun": "え(る)、う(る)"
+  },
+  {
+   "char": "勝",
+   "hanViet": "THẮNG",
+   "meaning": "chiến thắng, vượt trội",
+   "on": "ショウ",
+   "kun": "か(つ)、まさ(る)"
+  },
+  {
+   "char": "負",
+   "hanViet": "PHỤ",
+   "meaning": "thua cuộc, mang vác",
+   "on": "フ",
+   "kun": "ま(ける)、お(う)"
+  },
+  {
+   "char": "努",
+   "hanViet": "NỖ",
+   "meaning": "nỗ lực, gắng sức",
+   "on": "ド",
+   "kun": "つと(める)"
+  },
+  {
+   "char": "励",
+   "hanViet": "LỆ",
+   "meaning": "khích lệ, động viên",
+   "on": "レイ",
+   "kun": "はげ(む)"
+  },
+  {
+   "char": "競",
+   "hanViet": "CẠNH",
+   "meaning": "cạnh tranh, thi đua",
+   "on": "キョウ、ケイ",
+   "kun": "きそ(う)、せ(る)"
+  },
+  {
+   "char": "練",
+   "hanViet": "LUYỆN",
+   "meaning": "rèn luyện, nhào nặn",
+   "on": "レン",
+   "kun": "ね(る)"
+  },
+  {
+   "char": "陽",
+   "hanViet": "DƯƠNG",
+   "meaning": "mặt trời, ánh nắng",
+   "on": "ヨウ",
+   "kun": ""
+  },
+  {
+   "char": "星",
+   "hanViet": "TINH",
+   "meaning": "ngôi sao, tinh tú",
+   "on": "セイ、ショウ",
+   "kun": "ほし"
+  },
+  {
+   "char": "雲",
+   "hanViet": "VÂN",
+   "meaning": "đám mây",
+   "on": "ウン",
+   "kun": "くも"
+  },
+  {
+   "char": "雪",
+   "hanViet": "TUYẾT",
+   "meaning": "tuyết rơi",
+   "on": "セツ",
+   "kun": "ゆき"
+  },
+  {
+   "char": "氷",
+   "hanViet": "BĂNG",
+   "meaning": "nước đá, băng giá",
+   "on": "ヒョウ",
+   "kun": "こおり、ひ"
+  },
+  {
+   "char": "煙",
+   "hanViet": "YÊN",
+   "meaning": "khói lửa",
+   "on": "エン",
+   "kun": "けむり、けむ(る)"
+  },
+  {
+   "char": "石",
+   "hanViet": "THẠCH",
+   "meaning": "hòn đá, sỏi đá",
+   "on": "セキ、シャク",
+   "kun": "いし"
+  },
+  {
+   "char": "岩",
+   "hanViet": "NHAM",
+   "meaning": "tảng đá lớn, vách đá",
+   "on": "ガン",
+   "kun": "いわ"
+  },
+  {
+   "char": "砂",
+   "hanViet": "SA",
+   "meaning": "cát sỏi, sa mạc",
+   "on": "サ、シャ",
+   "kun": "すな"
+  },
+  {
+   "char": "島",
+   "hanViet": "ĐẢO",
+   "meaning": "hòn đảo",
+   "on": "トウ",
+   "kun": "しま"
+  },
+  {
+   "char": "岸",
+   "hanViet": "NGẠN",
+   "meaning": "bờ biển, bờ sông",
+   "on": "ガン",
+   "kun": "きし"
+  },
+  {
+   "char": "波",
+   "hanViet": "BA",
+   "meaning": "con sóng, làn sóng",
+   "on": "ハ",
+   "kun": "なみ"
+  },
+  {
+   "char": "湖",
+   "hanViet": "HỒ",
+   "meaning": "hồ nước lớn",
+   "on": "コ",
+   "kun": "みずうみ"
+  },
+  {
+   "char": "港",
+   "hanViet": "CẢNG",
+   "meaning": "bến cảng, hải cảng",
+   "on": "コウ",
+   "kun": "みなと"
+  },
+  {
+   "char": "橋",
+   "hanViet": "KIỀU",
+   "meaning": "cây cầu",
+   "on": "キョウ",
+   "kun": "はし"
+  },
+  {
+   "char": "坂",
+   "hanViet": "PHẢN",
+   "meaning": "con dốc, sườn dốc",
+   "on": "ハン",
+   "kun": "さか"
+  },
+  {
+   "char": "谷",
+   "hanViet": "CỐC",
+   "meaning": "thung lũng, khe núi",
+   "on": "コク",
+   "kun": "たに"
+  },
+  {
+   "char": "草",
+   "hanViet": "THẢO",
+   "meaning": "cỏ cây, thảo mộc",
+   "on": "ソウ",
+   "kun": "くさ"
+  },
+  {
+   "char": "葉",
+   "hanViet": "DIỆP",
+   "meaning": "chiếc lá, từ ngữ",
+   "on": "ヨウ",
+   "kun": "は"
+  },
+  {
+   "char": "根",
+   "hanViet": "CĂN",
+   "meaning": "rễ cây, căn bản",
+   "on": "コン",
+   "kun": "ね"
+  },
+  {
+   "char": "枝",
+   "hanViet": "CHI",
+   "meaning": "cành cây, nhánh cây",
+   "on": "シ",
+   "kun": "えだ"
+  },
+  {
+   "char": "種",
+   "hanViet": "CHỦNG",
+   "meaning": "hạt giống, chủng loại",
+   "on": "シュ",
+   "kun": "たね"
+  },
+  {
+   "char": "実",
+   "hanViet": "THỰC",
+   "meaning": "quả chín, sự thật",
+   "on": "ジツ",
+   "kun": "み、みの(る)"
+  },
+  {
+   "char": "畑",
+   "hanViet": "ĐIỀN",
+   "meaning": "nương rẫy, ruộng cạn",
+   "on": "ハタ",
+   "kun": "はたけ"
+  },
+  {
+   "char": "虫",
+   "hanViet": "TRÙNG",
+   "meaning": "côn trùng, sâu bọ",
+   "on": "チュウ",
+   "kun": "むし"
+  },
+  {
+   "char": "猫",
+   "hanViet": "MIÊU",
+   "meaning": "con mèo",
+   "on": "ビョウ",
+   "kun": "ねこ"
+  },
+  {
+   "char": "馬",
+   "hanViet": "MÃ",
+   "meaning": "con ngựa",
+   "on": "バ",
+   "kun": "うま、ま"
+  },
+  {
+   "char": "豚",
+   "hanViet": "ĐỒN",
+   "meaning": "con lợn, thịt heo",
+   "on": "トン",
+   "kun": "ぶた"
+  },
+  {
+   "char": "羽",
+   "hanViet": "VŨ",
+   "meaning": "lông vũ, đôi cánh",
+   "on": "ウ",
+   "kun": "は、はね"
+  },
+  {
+   "char": "鳴",
+   "hanViet": "MINH",
+   "meaning": "kêu, hót, reo vang",
+   "on": "メイ",
+   "kun": "な(く)、な(る)"
+  },
+  {
+   "char": "飛",
+   "hanViet": "PHI",
+   "meaning": "bay lượn",
+   "on": "ヒ",
+   "kun": "と(ぶ)"
+  },
+  {
+   "char": "泳",
+   "hanViet": "VỊNH",
+   "meaning": "bơi lội",
+   "on": "エイ",
+   "kun": "およ(ぐ)"
+  },
+  {
+   "char": "流",
+   "hanViet": "LƯU",
+   "meaning": "dòng chảy, trôi chảy",
+   "on": "リュウ、ル",
+   "kun": "なが(れる)"
+  },
+  {
+   "char": "浮",
+   "hanViet": "PHÙ",
+   "meaning": "nổi trên mặt nước",
+   "on": "フ",
+   "kun": "う(く)、う(かぶ)"
+  },
+  {
+   "char": "沈",
+   "hanViet": "TRẦM",
+   "meaning": "chìm xuống, lặn xuống",
+   "on": "チン",
+   "kun": "しず(む)"
+  },
+  {
+   "char": "庭",
+   "hanViet": "ĐÌNH",
+   "meaning": "sân vườn",
+   "on": "テイ",
+   "kun": "にわ"
+  },
+  {
+   "char": "窓",
+   "hanViet": "SONG",
+   "meaning": "cửa sổ",
+   "on": "ソウ",
+   "kun": "まど"
+  },
+  {
+   "char": "壁",
+   "hanViet": "BÍCH",
+   "meaning": "bức tường, vách ngăn",
+   "on": "ヘキ",
+   "kun": "かべ"
+  },
+  {
+   "char": "床",
+   "hanViet": "SÀNG",
+   "meaning": "sàn nhà, giường nằm",
+   "on": "ショウ",
+   "kun": "ゆか、とこ"
+  },
+  {
+   "char": "席",
+   "hanViet": "TỊCH",
+   "meaning": "chỗ ngồi, ghế ngồi",
+   "on": "セキ",
+   "kun": ""
+  },
+  {
+   "char": "机",
+   "hanViet": "CƠ",
+   "meaning": "cái bàn học",
+   "on": "キ",
+   "kun": "つくえ"
+  },
+  {
+   "char": "椅",
+   "hanViet": "Ỷ",
+   "meaning": "chiếc ghế tựa",
+   "on": "イ",
+   "kun": ""
+  },
+  {
+   "char": "箱",
+   "hanViet": "TƯƠNG",
+   "meaning": "cái hộp, cái thùng",
+   "on": "ソウ",
+   "kun": "はこ"
+  },
+  {
+   "char": "袋",
+   "hanViet": "ĐẠI",
+   "meaning": "cái túi, bao tải",
+   "on": "タイ",
+   "kun": "ふくろ"
+  },
+  {
+   "char": "皿",
+   "hanViet": "MÃNH",
+   "meaning": "cái đĩa đựng thức ăn",
+   "on": "ベイ",
+   "kun": "さら"
+  },
+  {
+   "char": "杯",
+   "hanViet": "BÔI",
+   "meaning": "chén rượu, cốc nước",
+   "on": "ハイ",
+   "kun": "さかずき"
+  },
+  {
+   "char": "瓶",
+   "hanViet": "BÌNH",
+   "meaning": "cái chai, lọ hoa",
+   "on": "ビン",
+   "kun": ""
+  },
+  {
+   "char": "鏡",
+   "hanViet": "KÍNH",
+   "meaning": "cái gương soi",
+   "on": "キョウ",
+   "kun": "かがみ"
+  },
+  {
+   "char": "鍵",
+   "hanViet": "KIỆN",
+   "meaning": "chìa khóa, phím đàn",
+   "on": "ケン",
+   "kun": "かぎ"
+  },
+  {
+   "char": "靴",
+   "hanViet": "NGOA",
+   "meaning": "đôi giày",
+   "on": "カ",
+   "kun": "くつ"
+  },
+  {
+   "char": "帽",
+   "hanViet": "MẠO",
+   "meaning": "cái mũ, chiếc nón",
+   "on": "ボウ",
+   "kun": ""
+  },
+  {
+   "char": "帯",
+   "hanViet": "ĐỚI",
+   "meaning": "thắt lưng, vùng đai",
+   "on": "タイ",
+   "kun": "お(びる)、おび"
+  },
+  {
+   "char": "布",
+   "hanViet": "BỐ",
+   "meaning": "vải vóc, phân bố",
+   "on": "フ",
+   "kun": "ぬの"
+  },
+  {
+   "char": "糸",
+   "hanViet": "MỊCH",
+   "meaning": "sợi chỉ, sợi tơ",
+   "on": "シ",
+   "kun": "いと"
+  },
+  {
+   "char": "針",
+   "hanViet": "CHÂM",
+   "meaning": "cây kim, kim đồng hồ",
+   "on": "シン",
+   "kun": "はり"
+  },
+  {
+   "char": "鉄",
+   "hanViet": "THIẾT",
+   "meaning": "sắt thép, đường sắt",
+   "on": "テツ",
+   "kun": ""
+  },
+  {
+   "char": "銅",
+   "hanViet": "ĐỒNG",
+   "meaning": "kim loại đồng",
+   "on": "ドウ",
+   "kun": ""
+  },
+  {
+   "char": "油",
+   "hanViet": "DU",
+   "meaning": "dầu mỡ, xăng dầu",
+   "on": "ユ",
+   "kun": "あぶら"
+  },
+  {
+   "char": "塩",
+   "hanViet": "DIÊM",
+   "meaning": "muối ăn",
+   "on": "エン",
+   "kun": "しお"
+  },
+  {
+   "char": "糖",
+   "hanViet": "ĐƯỜNG",
+   "meaning": "đường ngọt, kẹo",
+   "on": "トウ",
+   "kun": ""
+  },
+  {
+   "char": "酒",
+   "hanViet": "TỬU",
+   "meaning": "rượu, đồ uống có cồn",
+   "on": "シュ",
+   "kun": "さけ、さか"
+  },
+  {
+   "char": "乳",
+   "hanViet": "NHŨ",
+   "meaning": "sữa tươi",
+   "on": "ニュウ",
+   "kun": "ちち"
+  },
+  {
+   "char": "卵",
+   "hanViet": "NOÃN",
+   "meaning": "quả trứng",
+   "on": "ラン",
+   "kun": "たまご"
+  },
+  {
+   "char": "米",
+   "hanViet": "MỄ",
+   "meaning": "gạo, nước Mỹ",
+   "on": "ベイ、マイ",
+   "kun": "こめ"
+  },
+  {
+   "char": "麦",
+   "hanViet": "MẠCH",
+   "meaning": "lúa mạch, lúa mì",
+   "on": "バク",
+   "kun": "むぎ"
+  },
+  {
+   "char": "豆",
+   "hanViet": "ĐẬU",
+   "meaning": "hạt đậu, đỗ",
+   "on": "トウ、ズ",
+   "kun": "まめ"
+  },
+  {
+   "char": "菓",
+   "hanViet": "QUẢ",
+   "meaning": "bánh kẹo",
+   "on": "カ",
+   "kun": ""
+  },
+  {
+   "char": "焼",
+   "hanViet": "THIÊU",
+   "meaning": "nướng, đốt cháy",
+   "on": "ショウ",
+   "kun": "や(く)、や(ける)"
+  },
+  {
+   "char": "煮",
+   "hanViet": "CHỬ",
+   "meaning": "nấu chín, hầm nhừ",
+   "on": "シャ",
+   "kun": "に(る)、に(える)"
+  },
+  {
+   "char": "沸",
+   "hanViet": "PHẤT",
+   "meaning": "đun sôi, sôi sục",
+   "on": "フツ",
+   "kun": "わ(く)、わ(かす)"
+  },
+  {
+   "char": "冷",
+   "hanViet": "LÃNH",
+   "meaning": "lạnh (đồ vật), làm mát",
+   "on": "レイ",
+   "kun": "つめ(たい)、ひ(える)"
+  },
+  {
+   "char": "温",
+   "hanViet": "ÔN",
+   "meaning": "ấm áp, nhiệt độ",
+   "on": "オン",
+   "kun": "あたた(かい)"
+  },
+  {
+   "char": "暖",
+   "hanViet": "NOÃN",
+   "meaning": "ấm áp (thời tiết)",
+   "on": "ダン",
+   "kun": "あたた(かい)"
+  },
+  {
+   "char": "熱",
+   "hanViet": "NHIỆT",
+   "meaning": "nóng bỏng, cơn sốt",
+   "on": "ネツ",
+   "kun": "あつ(い)"
+  },
+  {
+   "char": "乾",
+   "hanViet": "CAN",
+   "meaning": "khô ráo, phơi khô",
+   "on": "カン",
+   "kun": "かわ(く)、かわ(かす)"
+  },
+  {
+   "char": "湿",
+   "hanViet": "THẤP",
+   "meaning": "ẩm ướt, độ ẩm",
+   "on": "シツ",
+   "kun": "しめ(る)"
+  },
+  {
+   "char": "汚",
+   "hanViet": "Ô",
+   "meaning": "bẩn thỉu, ô nhiễm",
+   "on": "オ",
+   "kun": "よご(れる)、きたな(い)"
+  },
+  {
+   "char": "清",
+   "hanViet": "THANH",
+   "meaning": "trong sạch, thanh khiết",
+   "on": "セイ、ショウ",
+   "kun": "きよ(い)"
+  },
+  {
+   "char": "深",
+   "hanViet": "THÂM",
+   "meaning": "sâu sắc, độ sâu",
+   "on": "シン",
+   "kun": "ふか(い)"
+  },
+  {
+   "char": "浅",
+   "hanViet": "THIỂN",
+   "meaning": "nông cạn",
+   "on": "セン",
+   "kun": "あさ(い)"
+  },
+  {
+   "char": "厚",
+   "hanViet": "HẬU",
+   "meaning": "dày dặn, nồng hậu",
+   "on": "コウ",
+   "kun": "あつ(い)"
+  },
+  {
+   "char": "薄",
+   "hanViet": "BẠC",
+   "meaning": "mỏng manh, nhạt nhẽo",
+   "on": "ハク",
+   "kun": "うす(い)"
+  },
+  {
+   "char": "細",
+   "hanViet": "TẾ",
+   "meaning": "thon nhỏ, chi tiết",
+   "on": "サイ",
+   "kun": "ほそ(い)、こま(かい)"
+  },
+  {
+   "char": "丸",
+   "hanViet": "HOÀN",
+   "meaning": "tròn trịa, viên tròn",
+   "on": "ガン",
+   "kun": "まる(い)、まる"
+  },
+  {
+   "char": "角",
+   "hanViet": "GIÁC",
+   "meaning": "góc cạnh, cái sừng",
+   "on": "カク",
+   "kun": "かど、つの"
+  },
+  {
+   "char": "直",
+   "hanViet": "TRỰC",
+   "meaning": "thẳng thắn, sửa chữa",
+   "on": "チョク、ジキ",
+   "kun": "なお(す)、ただ(ちに)"
+  },
+  {
+   "char": "曲",
+   "hanViet": "KHÚC",
+   "meaning": "uốn cong, bản nhạc",
+   "on": "キョク",
+   "kun": "ま(がる)、ま(げる)"
+  },
+  {
+   "char": "数",
+   "hanViet": "SỐ",
+   "meaning": "con số, đếm số",
+   "on": "スウ",
+   "kun": "かず、かぞ(える)"
+  },
+  {
+   "char": "量",
+   "hanViet": "LƯỢNG",
+   "meaning": "số lượng, đo lường",
+   "on": "リョウ",
+   "kun": "はか(る)"
+  },
+  {
+   "char": "番",
+   "hanViet": "PHIÊN",
+   "meaning": "số thứ tự, phiên trực",
+   "on": "バン",
+   "kun": ""
+  },
+  {
+   "char": "号",
+   "hanViet": "HIỆU",
+   "meaning": "số hiệu, danh hiệu",
+   "on": "ゴウ",
+   "kun": ""
+  },
+  {
+   "char": "第",
+   "hanViet": "ĐỆ",
+   "meaning": "thứ (số thứ tự)",
+   "on": "ダイ",
+   "kun": ""
+  },
+  {
+   "char": "次",
+   "hanViet": "THỨ",
+   "meaning": "tiếp theo, lần thứ",
+   "on": "ジ、シ",
+   "kun": "つぎ、つ(ぐ)"
+  },
+  {
+   "char": "順",
+   "hanViet": "THUẬN",
+   "meaning": "thứ tự, thuận lợi",
+   "on": "ジュン",
+   "kun": ""
+  },
+  {
+   "char": "列",
+   "hanViet": "LIỆT",
+   "meaning": "hàng lối, xếp hàng",
+   "on": "レツ",
+   "kun": ""
+  },
+  {
+   "char": "倍",
+   "hanViet": "BỘI",
+   "meaning": "gấp đôi, bội số",
+   "on": "バイ",
+   "kun": ""
+  },
+  {
+   "char": "割",
+   "hanViet": "CÁT",
+   "meaning": "tỷ lệ (10%), chia cắt",
+   "on": "カツ",
+   "kun": "わ(る)、わり"
+  },
+  {
+   "char": "点",
+   "hanViet": "ĐIỂM",
+   "meaning": "điểm số, chấm nhỏ",
+   "on": "テン",
+   "kun": "つ(ける)"
+  },
+  {
+   "char": "線",
+   "hanViet": "TUYẾN",
+   "meaning": "đường kẻ, tuyến tàu",
+   "on": "セン",
+   "kun": ""
+  },
+  {
+   "char": "面",
+   "hanViet": "DIỆN",
+   "meaning": "bề mặt, mặt nạ",
+   "on": "メン",
+   "kun": "おも、おもて"
+  },
+  {
+   "char": "側",
+   "hanViet": "TRẮC",
+   "meaning": "phía bên, cạnh bên",
+   "on": "ソク",
+   "kun": "がわ、そば"
+  },
+  {
+   "char": "横",
+   "hanViet": "HOÀNH",
+   "meaning": "chiều ngang, bên cạnh",
+   "on": "オウ",
+   "kun": "よこ"
+  },
+  {
+   "char": "縦",
+   "hanViet": "TUNG",
+   "meaning": "chiều dọc, tung hoành",
+   "on": "ジュウ",
+   "kun": "たて"
+  },
+  {
+   "char": "央",
+   "hanViet": "ƯƠNG",
+   "meaning": "trung tâm, chính giữa",
+   "on": "オウ",
+   "kun": ""
+  },
+  {
+   "char": "奥",
+   "hanViet": "ÁO",
+   "meaning": "bên trong sâu, nội tâm",
+   "on": "オウ",
+   "kun": "おく"
+  },
+  {
+   "char": "端",
+   "hanViet": "ĐOAN",
+   "meaning": "đầu mút, mép cạnh",
+   "on": "タン",
+   "kun": "はし、はた"
+  },
+  {
+   "char": "隅",
+   "hanViet": "NGUNG",
+   "meaning": "góc phòng, xó xỉnh",
+   "on": "グウ",
+   "kun": "すみ"
+  },
+  {
+   "char": "秒",
+   "hanViet": "MIỂU",
+   "meaning": "giây đồng hồ",
+   "on": "ビョウ",
+   "kun": ""
+  },
+  {
+   "char": "期",
+   "hanViet": "KỲ",
+   "meaning": "thời kỳ, kỳ hạn",
+   "on": "キ、ゴ",
+   "kun": ""
+  },
+  {
+   "char": "限",
+   "hanViet": "HẠN",
+   "meaning": "giới hạn, hạn mức",
+   "on": "ゲン",
+   "kun": "かぎ(る)"
+  },
+  {
+   "char": "昔",
+   "hanViet": "TÍCH",
+   "meaning": "ngày xưa, cổ tích",
+   "on": "セキ、シャク",
+   "kun": "むかし"
+  },
+  {
+   "char": "昨",
+   "hanViet": "TẠC",
+   "meaning": "hôm qua, năm ngoái",
+   "on": "サク",
+   "kun": ""
+  },
+  {
+   "char": "久",
+   "hanViet": "CỬU",
+   "meaning": "lâu dài, vĩnh cửu",
+   "on": "キュウ、ク",
+   "kun": "ひさ(しい)"
+  },
+  {
+   "char": "永",
+   "hanViet": "VĨNH",
+   "meaning": "vĩnh viễn, mãi mãi",
+   "on": "エイ",
+   "kun": "なが(い)"
+  },
+  {
+   "char": "常",
+   "hanViet": "THƯỜNG",
+   "meaning": "bình thường, luôn luôn",
+   "on": "ジョウ",
+   "kun": "つね"
+  },
+  {
+   "char": "非",
+   "hanViet": "PHI",
+   "meaning": "không phải, phi thường",
+   "on": "ヒ",
+   "kun": ""
+  },
+  {
+   "char": "必",
+   "hanViet": "TẤT",
+   "meaning": "nhất định, tất yếu",
+   "on": "ヒツ",
+   "kun": "かなら(ず)"
+  },
+  {
+   "char": "然",
+   "hanViet": "NHIÊN",
+   "meaning": "tự nhiên, tất nhiên",
+   "on": "ゼン、ネン",
+   "kun": ""
+  },
+  {
+   "char": "全",
+   "hanViet": "TOÀN",
+   "meaning": "toàn bộ, hoàn toàn",
+   "on": "ゼン",
+   "kun": "まった(く)、すべ(て)"
+  },
+  {
+   "char": "部",
+   "hanViet": "BỘ",
+   "meaning": "bộ phận, câu lạc bộ",
+   "on": "ブ",
+   "kun": ""
+  },
+  {
+   "char": "各",
+   "hanViet": "CÁC",
+   "meaning": "mỗi, các vị",
+   "on": "カク",
+   "kun": "おのおの"
+  },
+  {
+   "char": "他",
+   "hanViet": "THA",
+   "meaning": "khác, người khác",
+   "on": "タ",
+   "kun": "ほか"
+  },
+  {
+   "char": "両",
+   "hanViet": "LƯỠNG",
+   "meaning": "cả hai, hai bên",
+   "on": "リョウ",
+   "kun": ""
+  },
+  {
+   "char": "共",
+   "hanViet": "CỘNG",
+   "meaning": "cùng nhau, cộng đồng",
+   "on": "キョウ",
+   "kun": "とも"
+  },
+  {
+   "char": "単",
+   "hanViet": "ĐƠN",
+   "meaning": "đơn giản, từ đơn",
+   "on": "タン",
+   "kun": ""
+  },
+  {
+   "char": "独",
+   "hanViet": "ĐỘC",
+   "meaning": "độc lập, một mình",
+   "on": "ドク",
+   "kun": "ひと(り)"
+  },
+  {
+   "char": "再",
+   "hanViet": "TÁI",
+   "meaning": "lặp lại, một lần nữa",
+   "on": "サイ、サ",
+   "kun": "ふたた(び)"
+  },
+  {
+   "char": "初",
+   "hanViet": "SƠ",
+   "meaning": "lần đầu, ban sơ",
+   "on": "ショ",
+   "kun": "はじ(め)、はつ"
+  },
+  {
+   "char": "末",
+   "hanViet": "MẠT",
+   "meaning": "cuối cùng, ngọn ngành",
+   "on": "マツ、バツ",
+   "kun": "すえ"
+  },
+  {
+   "char": "未",
+   "hanViet": "VỊ",
+   "meaning": "chưa từng, vị lai",
+   "on": "ミ",
+   "kun": ""
+  },
+  {
+   "char": "既",
+   "hanViet": "KÝ",
+   "meaning": "đã rồi, dĩ vãng",
+   "on": "キ",
+   "kun": "すで(に)"
+  },
+  {
+   "char": "完",
+   "hanViet": "HOÀN",
+   "meaning": "hoàn thiện, trọn vẹn",
+   "on": "カン",
+   "kun": ""
+  },
+  {
+   "char": "芸",
+   "hanViet": "NGHỆ",
+   "meaning": "nghệ thuật, tài nghệ",
+   "on": "ゲイ",
+   "kun": ""
+  },
+  {
+   "char": "術",
+   "hanViet": "THUẬT",
+   "meaning": "kỹ thuật, phép thuật",
+   "on": "ジュツ",
+   "kun": ""
+  },
+  {
+   "char": "科",
+   "hanViet": "KHOA",
+   "meaning": "khoa học, môn học",
+   "on": "カ",
+   "kun": ""
+  },
+  {
+   "char": "史",
+   "hanViet": "SỬ",
+   "meaning": "lịch sử, sử ký",
+   "on": "シ",
+   "kun": ""
+  },
+  {
+   "char": "歴",
+   "hanViet": "LỊCH",
+   "meaning": "lý lịch, trải qua",
+   "on": "レキ",
+   "kun": ""
+  }
+ ]
+}
