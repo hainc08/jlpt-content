@@ -1597,6 +1597,48 @@
    "meaning": "rảnh rỗi, thời gian rảnh",
    "on": "カ",
    "kun": "ひま"
+  },
+  {
+   "char": "率",
+   "hanViet": "SUẤT",
+   "meaning": "tỷ lệ phần trăm, năng suất làm việc",
+   "on": "ソツ、リツ",
+   "kun": "ひき(いる)"
+  },
+  {
+   "char": "保",
+   "hanViet": "BẢO",
+   "meaning": "bảo tồn, giữ gìn trạng thái ban đầu",
+   "on": "ホ",
+   "kun": "たも(つ)"
+  },
+  {
+   "char": "基",
+   "hanViet": "CƠ",
+   "meaning": "cơ bản, nền tảng móng công trình",
+   "on": "キ",
+   "kun": "もと"
+  },
+  {
+   "char": "逆",
+   "hanViet": "NGHỊCH",
+   "meaning": "ngược lại, đảo ngược chiều hướng",
+   "on": "ギャク",
+   "kun": "さか(らう)"
+  },
+  {
+   "char": "燃",
+   "hanViet": "NHIÊN",
+   "meaning": "cháy, đốt cháy bốc lửa rực rỡ",
+   "on": "ネン",
+   "kun": "も(える)"
+  },
+  {
+   "char": "準",
+   "hanViet": "CHUẨN",
+   "meaning": "tiêu chuẩn, chuẩn bị sẵn sàng",
+   "on": "ジュン",
+   "kun": ""
   }
  ]
 }

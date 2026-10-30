@@ -1807,6 +1807,48 @@
    "meaning": "trói buộc, ràng buộc",
    "on": "バク",
    "kun": "しば(る)"
+  },
+  {
+   "char": "跡",
+   "hanViet": "TÍCH",
+   "meaning": "dấu vết tích xưa còn lưu lại",
+   "on": "セキ",
+   "kun": "あと"
+  },
+  {
+   "char": "偏",
+   "hanViet": "THIÊN",
+   "meaning": "thiên lệch, thành kiến nghiêng một bên",
+   "on": "ヘン",
+   "kun": "かたよ(る)"
+  },
+  {
+   "char": "傲",
+   "hanViet": "NGẠO",
+   "meaning": "kiêu ngạo hống hách khinh người",
+   "on": "ゴウ",
+   "kun": ""
+  },
+  {
+   "char": "蔑",
+   "hanViet": "MIỆT",
+   "meaning": "khinh miệt coi thường rẻ rúng miệt thị",
+   "on": "ベツ",
+   "kun": "さげす(む)"
+  },
+  {
+   "char": "濫",
+   "hanViet": "LẠM",
+   "meaning": "lạm dụng quyền lực, tràn lan bờ cõi",
+   "on": "ラン",
+   "kun": "みだ(りに)"
+  },
+  {
+   "char": "痕",
+   "hanViet": "NGÂN",
+   "meaning": "vết sẹo, vết tích còn hằn lại",
+   "on": "コン",
+   "kun": "あと"
   }
  ]
 }

@@ -1933,6 +1933,48 @@
    "meaning": "lý lịch, trải qua",
    "on": "レキ",
    "kun": ""
+  },
+  {
+   "char": "観",
+   "hanViet": "QUAN",
+   "meaning": "quan sát, thưởng ngoạn cảnh sắc",
+   "on": "カン",
+   "kun": "み(る)"
+  },
+  {
+   "char": "賞",
+   "hanViet": "THƯỞNG",
+   "meaning": "phần thưởng, giải thưởng cao quý",
+   "on": "ショウ",
+   "kun": ""
+  },
+  {
+   "char": "票",
+   "hanViet": "PHIẾU",
+   "meaning": "lá phiếu, bỏ phiếu bầu cử",
+   "on": "ヒョウ",
+   "kun": ""
+  },
+  {
+   "char": "輪",
+   "hanViet": "LUÂN",
+   "meaning": "bánh xe tròn, vòng tròn khép kín",
+   "on": "リン",
+   "kun": "わ"
+  },
+  {
+   "char": "灯",
+   "hanViet": "ĐĂNG",
+   "meaning": "ngọn đèn dầu, ánh đèn thắp",
+   "on": "トウ",
+   "kun": "ひ"
+  },
+  {
+   "char": "隊",
+   "hanViet": "ĐỘI",
+   "meaning": "đội ngũ, đoàn quân xếp ngũ",
+   "on": "タイ",
+   "kun": ""
   }
  ]
 }

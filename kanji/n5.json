@@ -729,6 +729,48 @@
    "meaning": "gặp gỡ, hội",
    "on": "カイ",
    "kun": "あ(う)"
+  },
+  {
+   "char": "竹",
+   "hanViet": "TRÚC",
+   "meaning": "cây tre, tre trúc",
+   "on": "チク",
+   "kun": "たけ"
+  },
+  {
+   "char": "貝",
+   "hanViet": "BỐI",
+   "meaning": "con sò, vỏ sò",
+   "on": "バイ",
+   "kun": "かい"
+  },
+  {
+   "char": "玉",
+   "hanViet": "NGỌC",
+   "meaning": "viên ngọc, hòn bi tròn",
+   "on": "ギョク",
+   "kun": "たま"
+  },
+  {
+   "char": "毛",
+   "hanViet": "MAO",
+   "meaning": "lông, sợi tóc",
+   "on": "モウ",
+   "kun": "け"
+  },
+  {
+   "char": "矢",
+   "hanViet": "THỈ",
+   "meaning": "mũi tên bắn",
+   "on": "シ",
+   "kun": "や"
+  },
+  {
+   "char": "刀",
+   "hanViet": "ĐAO",
+   "meaning": "con dao, thanh kiếm Nhật",
+   "on": "トウ",
+   "kun": "かたな"
   }
  ]
 }

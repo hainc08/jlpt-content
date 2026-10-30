@@ -1233,6 +1233,48 @@
    "meaning": "bạc (kim loại)",
    "on": "ギン",
    "kun": ""
+  },
+  {
+   "char": "登",
+   "hanViet": "ĐĂNG",
+   "meaning": "leo núi, trèo lên cao",
+   "on": "トウ、ト",
+   "kun": "のぼ(る)"
+  },
+  {
+   "char": "速",
+   "hanViet": "TỐC",
+   "meaning": "nhanh chóng, tốc độ cao",
+   "on": "ソク",
+   "kun": "はや(い)"
+  },
+  {
+   "char": "受",
+   "hanViet": "THỤ",
+   "meaning": "nhận lấy, tiếp nhận, dự thi",
+   "on": "ジュ",
+   "kun": "う(ける)"
+  },
+  {
+   "char": "緑",
+   "hanViet": "LỤC",
+   "meaning": "màu xanh lá cây",
+   "on": "リョク",
+   "kun": "みどり"
+  },
+  {
+   "char": "球",
+   "hanViet": "CẦU",
+   "meaning": "quả bóng tròn, hình cầu tròn",
+   "on": "キュウ",
+   "kun": "たま"
+  },
+  {
+   "char": "湯",
+   "hanViet": "THANG",
+   "meaning": "nước nóng, nước sôi sục",
+   "on": "トウ",
+   "kun": "ゆ"
   }
  ]
 }
